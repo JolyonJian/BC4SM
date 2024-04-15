@@ -1,0 +1,1 @@
+.\geth.exe --datadir ".\data" --keystore ".\data\keystore" --networkid 666 --ws --ws.port 8545 --ws.origins "*" --ws.addr "0.0.0.0" --ws.api admin,eth,miner,web3,personal,net,txpool --nodiscover --allow-insecure-unlock console

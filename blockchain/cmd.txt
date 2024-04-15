@@ -1,0 +1,6 @@
+miner.setEtherbase(eth.accounts[0])
+miner.start(1)
+miner.stop()
+miner.setEtherbase(eth.accounts[1])
+miner.start(1)
+miner.stop()
