@@ -95,5 +95,5 @@ npm run serve
 
 ### 运行演示
 
-![运行演示](https://s1.locimg.com/2024/04/15/4637b3d033042.gif)
+![运行演示](https://s1.locimg.com/2024/04/15/282e5242c746e.gif)
 
