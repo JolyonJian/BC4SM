@@ -54,7 +54,7 @@
 ### 运行说明
 1. 克隆本仓库
 ```
-git clone https://github.com/JolyonJian/BC4SM
+git clone https://github.com/JolyonJian/BC4SM.git
 cd BC4SM
 ```
 2. 启动区块链客户端
